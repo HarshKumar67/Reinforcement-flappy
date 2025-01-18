@@ -77,4 +77,4 @@ This project is open-source and available under the MIT License. Feel free to us
 If you have any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [HarshKumar67](https://github.com/HarshKumar67)
-- **Email**: [your-email@example.com] (Replace with your actual email if desired)
+- **Email**: [harshero03@gmail.com]
